@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb4101c0-a4be-4ad7-8f97-c07e8b919660" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="bootstrap-test" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>btn-dark</find>
+      <find>div</find>
+      <find>white</find>
+      <find>h1</find>
+      <find>h2</find>
+      <find>montserrat</find>
+      <find>pres</find>
+      <find>padding: 3% 15%</find>
+      <find>padding: 7% 15%</find>
+      <find>text-align: center</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/TinDog.html" />
+        <option value="$PROJECT_DIR$/Copia TinDog.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
+        <option value="$PROJECT_DIR$/DOM/index.html" />
+        <option value="$PROJECT_DIR$/DOM/index.js" />
+        <option value="$PROJECT_DIR$/DOM/styles.css" />
+        <option value="$PROJECT_DIR$/Dice Game/Dicee Challenge - Starting Files/styles.css" />
+        <option value="$PROJECT_DIR$/Dice Game/D&amp;D dice/images/move.js" />
+        <option value="$PROJECT_DIR$/Dice Game/D&amp;D dice/images/index.js" />
+        <option value="$PROJECT_DIR$/Dice Game/Dicee Challenge - Starting Files/dicee.html" />
+        <option value="$PROJECT_DIR$/Dice Game/D&amp;D dice/styles20.css" />
+        <option value="$PROJECT_DIR$/Dice Game/D&amp;D dice/index.js" />
+        <option value="$PROJECT_DIR$/Dice Game/D&amp;D dice/D20D.html" />
+        <option value="$PROJECT_DIR$/Drum Kit Starting Files/index.js" />
+        <option value="$PROJECT_DIR$/Drum Kit Starting Files/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="385" />
+    <option name="y" value="405" />
+    <option name="width" value="980" />
+    <option name="height" value="1030" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
+            <path>
+              <item name="bootstrap-test" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="C:\Users\ASUS\Desktop\webDevelopment\bootstrap-test" type="442cc68d:ScopeViewTreeModel$RootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TinDog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TinDog" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dice Game/D&amp;D dice" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ASUS\Desktop\webDevelopment\bootstrap-test\Dice Game\D&amp;D dice" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb4101c0-a4be-4ad7-8f97-c07e8b919660" name="Default Changelist" comment="" />
+      <created>1647382413308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647382413308</updated>
+      <workItem from="1647382416462" duration="1402000" />
+      <workItem from="1647463798615" duration="971000" />
+      <workItem from="1648058813938" duration="623000" />
+      <workItem from="1648511852208" duration="586000" />
+      <workItem from="1650391651526" duration="980000" />
+      <workItem from="1650392732921" duration="177000" />
+      <workItem from="1650393050503" duration="3873000" />
+      <workItem from="1650490602926" duration="4663000" />
+      <workItem from="1650921356019" duration="3693000" />
+      <workItem from="1651004936428" duration="7850000" />
+      <workItem from="1651094599579" duration="2314000" />
+      <workItem from="1651097110394" duration="624000" />
+      <workItem from="1651184614030" duration="4946000" />
+      <workItem from="1651522675496" duration="5046000" />
+      <workItem from="1651785918357" duration="7106000" />
+      <workItem from="1651799766325" duration="2129000" />
+      <workItem from="1651878252055" duration="2354000" />
+      <workItem from="1652052649565" duration="58000" />
+      <workItem from="1652213854727" duration="5829000" />
+      <workItem from="1652728469717" duration="8372000" />
+      <workItem from="1652822721101" duration="3605000" />
+      <workItem from="1652889949513" duration="5684000" />
+      <workItem from="1653052810679" duration="1123000" />
+      <workItem from="1653340022083" duration="4071000" />
+      <workItem from="1653421027662" duration="2006000" />
+      <workItem from="1653515653731" duration="719000" />
+      <workItem from="1654013453269" duration="8000" />
+      <workItem from="1654638411346" duration="24000" />
+      <workItem from="1654729772314" duration="12000" />
+      <workItem from="1655926693903" duration="13000" />
+      <workItem from="1656534782715" duration="1741000" />
+      <workItem from="1657052061579" duration="592000" />
+      <workItem from="1657141773268" duration="1534000" />
+      <workItem from="1657306527892" duration="1683000" />
+      <workItem from="1657308923639" duration="2979000" />
+      <workItem from="1657737173179" duration="17299000" />
+      <workItem from="1657756064895" duration="619000" />
+      <workItem from="1658179437350" duration="5956000" />
+      <workItem from="1676946893248" duration="397000" />
+      <workItem from="1677528969993" duration="125000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113786000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.23959732" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
+      <window_info id="npm" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.23643725" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.25340393" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/package.json" />
+    <entry file="file://$PROJECT_DIR$/../test-project/Challange/CSS-My_Site/index.html" />
+    <entry file="file://$PROJECT_DIR$/Tindog Stars Here/TinDog.html" />
+    <entry file="file://$PROJECT_DIR$/../test-project/index.html" />
+    <entry file="file://$PROJECT_DIR$/../test-project/Challange/CSS-My_Site/CSS/styles.css" />
+    <entry file="file://$PROJECT_DIR$/images/Check.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Bullseye.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://D:/Iconos/capicon/svg/055.svg" />
+    <entry file="file://$PROJECT_DIR$/images/008.svg" />
+    <entry file="file://$PROJECT_DIR$/images/check.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/embed.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="43" column="22" lean-forward="true" selection-start-line="43" selection-start-column="22" selection-end-line="43" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/bootstrap/dist/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50949">
+          <caret line="2997" column="1" selection-start-line="2997" selection-start-column="1" selection-end-line="2997" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="248" column="16" selection-start-line="248" selection-start-column="16" selection-end-line="248" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="186" selection-start-line="186" selection-end-line="186" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DOM/index.html" />
+    <entry file="file://$PROJECT_DIR$/DOM/index.js" />
+    <entry file="file://$PROJECT_DIR$/DOM/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/images/dado-20-1.png" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/images/dado-20-caras.png" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/index.js" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/dragon.js" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/styles20.css" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/D20D.html" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/Dicee Challenge - Starting Files/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/Dicee Challenge - Starting Files/dicee.html" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/D&amp;D dice/images/Battlefield.jpg" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/dnd-tony-page/styles20.css" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/dnd-tony-page/dragon.js" />
+    <entry file="file://$PROJECT_DIR$/Dice Game/dnd-tony-page/D20D.html" />
+    <entry file="file://$PROJECT_DIR$/Drum Kit Starting Files/styles.css" />
+    <entry file="file://$PROJECT_DIR$/Drum Kit Starting Files/index.js" />
+    <entry file="file://$PROJECT_DIR$/Pokemon.js" />
+    <entry file="file://$PROJECT_DIR$/Drum Kit Starting Files/index.html" />
+    <entry file="file://$PROJECT_DIR$/Copia TinDog.html" />
+    <entry file="file://$PROJECT_DIR$/TinDog.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="87" column="80" lean-forward="true" selection-start-line="87" selection-start-column="80" selection-end-line="87" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
